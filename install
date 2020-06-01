@@ -1,0 +1,8 @@
+#!/bin/sh
+set -x
+rm -rf tmp_template;
+wget https://raw.githubusercontent.com/edwrodrig/template_cmake_lib/master/temple.phar;
+git clone --single-branch https://github.com/edwrodrig/template_cmake_lib.git -b template tmp_template;
+php temple.phar $1 $2 tmp_template $2;
+rm -rf tmp_template;
+rm -rf temple.phar
