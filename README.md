@@ -3,9 +3,6 @@ edwrodrig\template_cmake_lib
 Template para biblioteca C++ para cmake 
 
 [![License](https://img.shields.io/github/license/edwrodrig/template_cmake_lib)](https://github.com/edwrodrig/template_cmake_lib/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/edwrodrig/template_cmake_lib.svg?branch=template)](https://travis-ci.org/edwrodrig/template_cmake_lib)
-[![codecov.io Code Coverage](https://codecov.io/gh/edwrodrig/template_cmake_lib/branch/master/graph/badge.svg)](https://codecov.io/github/edwrodrig/template_cmake_lib?branch=template)
-[![Code Climate](https://codeclimate.com/github/edwrodrig/template_cmake_lib/badges/gpa.svg)](https://codeclimate.com/github/edwrodrig/template_cmake_lib)
 ![Hecho en Chile](https://img.shields.io/badge/country-Chile-red)
 
 ## Instalación
