@@ -10,16 +10,3 @@ Template para biblioteca C++ para cmake
 curl -s https://raw.githubusercontent.com/edwrodrig/template_cmake_lib/master/install | \
 bash -s project
 ```
-
-## Información de mi máquina de desarrollo
-Salida de [system_info.sh](https://github.com/edwrodrig/hapi_core/blob/master/scripts/system_info.sh)
-```
-  Operating System: Ubuntu 20.04 LTS
-            Kernel: Linux 5.4.0-31-generic
-PHP 7.4.3 (cli) (built: May  5 2020 12:14:27) ( NTS )
-Copyright (c) The PHP Group
-Zend Engine v3.4.0, Copyright (c) Zend Technologies
-    with Zend OPcache v7.4.3, Copyright (c), by Zend Technologies
-    with Xdebug v2.9.2, Copyright (c) 2002-2020, by Derick Rethans
-```
-
